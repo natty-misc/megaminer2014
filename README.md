@@ -8,6 +8,8 @@ was lost.
 
 The code is terrible, I made minimal changes to it on purpose.
 
+![A screenshot of the main menu](screenshot.png)
+
 ## Dependencies
 
 The game requires JDK 8 and also the following libraries:
