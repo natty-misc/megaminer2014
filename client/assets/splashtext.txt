@@ -1,0 +1,14 @@
+Beta!
+Hello!
+I know you from somewhere
+Has Singleplayer!
+Definitely not Over 9000
+Has diamonds!
+No tutorial! (yet)
+Multiplayer WIP
+2D!
+Made in Czech Republic
+Made by Natty!
+Destroying stuff!
+Uses LWJGL!
+
